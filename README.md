@@ -1,4 +1,4 @@
-<p align="center"><img src="https://git-profile-readme-banner.vercel.app/api/python?username=duquee&txt=fullstack developer%2C%20blockchain%20enthusiast&bg=LemonChiffon&fill=black"></p>
+<p align="center"><img src="github-profile.png"></p>
 
 - 🔭 I’m currently working at [CIB Group](https://www.cib.de/)
 
