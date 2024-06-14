@@ -1,4 +1,4 @@
-<p align="center"><img src="banner.png"></p>
+<p align="center"><img src="banner4.png"></p>
 
 - 🔭 I’m currently working at [CIB Group](https://www.cib.de/)
 
