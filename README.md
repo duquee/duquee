@@ -1,7 +1,5 @@
 <p align="center"><img src="profile-banner.png"></p>
 
-- 🔭 I’m currently working at [CIB Group](https://www.cib.de/)
-
 - 🌱 I’m currently learning **Vue.js, mongoDB**
 
 <h3 align="left">Languages and Tools:</h3>
